@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Shades up [Live Link](https://name-conversion-js.netlify.app/)
+## Hex color selector [Live Link](https://hexcolorselector.netlify.app/)
 
 - Skills Gained in this project
 
